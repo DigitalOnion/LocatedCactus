@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocatedCactus</string>
+    <string name="app_label">LocatedCactus - Luis practice App</string>
+
+    <string name="intro">Minimal Google Location Services App</string>
+    <string name="get_location">Get Location</string>
+    <string name="display_result">Results from LocationManager will be displayed here.</string>
+
+</resources>
