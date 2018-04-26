@@ -5,5 +5,5 @@
     <string name="intro">Minimal Google Location Services App</string>
     <string name="get_location">Get Location</string>
     <string name="display_result">Results from LocationManager will be displayed here.</string>
-
+    <string name="invalid_result">"Location Services returned an invalid results"</string>
 </resources>
