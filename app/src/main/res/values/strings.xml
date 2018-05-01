@@ -4,6 +4,15 @@
 
     <string name="intro">Minimal Google Location Services App</string>
     <string name="get_location">Get Location</string>
+    <string name="update_location">Update Location</string>
     <string name="display_result">Results from LocationManager will be displayed here.</string>
     <string name="invalid_result">"Location Services returned an invalid results"</string>
+
+    <string name="nice_to_know">Nice to know!</string>
+    <string name="nice_message">Press GET LOCATION to get the Last Known Location. It could be inaccurate because you could have moved.\n\nPress UPDATE LOCATION to schedule location updates. That will bring new readings every so often.\n\nIn a new device or a fresh emulator, the last known location is invalid since there is no such information.</string>
+
+    <string name="wana_quit_title">Quitting?</string>
+    <string name="wana_quit">Do you want to quit the app?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
 </resources>
